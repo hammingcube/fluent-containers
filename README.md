@@ -8,7 +8,7 @@ docker run --rm -it -v $PWD/bin:/go/bin -e GOPATH=/go -w /go/src/app -e GOOS=lin
 
 Build docker image
 ```sh
-docker build -t fluent/clang:latest -f clang/latest/Dockerfile .
+docker build -t phluent/clang:latest -f clang/latest/Dockerfile .
 ```
 
 Run docker container
