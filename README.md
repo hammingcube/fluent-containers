@@ -14,4 +14,5 @@ docker build -t fluent/clang:latest -f clang/latest/Dockerfile .
 Run docker container
 ```sh
 cat example.json | docker run --rm -i fluent/clang
+cat example.json | docker run --rm -i fluent/clang -stream
 ```
