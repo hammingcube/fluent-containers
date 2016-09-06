@@ -22,5 +22,6 @@ cat py_example.json | docker run --rm -i phluent/python -stream
 
 Push docker container(s)
 ```sh
+docker push phluent/clang
 docker push phluent/python
 ```
