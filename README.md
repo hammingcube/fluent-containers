@@ -2,6 +2,8 @@
 
 phluent/clang: [![](https://images.microbadger.com/badges/image/phluent/clang.svg)](https://microbadger.com/images/phluent/clang "phluent/clang")
 
+phluent/python:[![](https://images.microbadger.com/badges/image/phluent/python.svg)](https://microbadger.com/images/phluent/python "phluent/python")
+
 ## How to build
 
 Build binary for linux
